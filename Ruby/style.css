@@ -1,0 +1,360 @@
+﻿.anasayfa {
+    width: 90%;
+    height: auto;
+    margin: 30px auto;
+}
+
+.logo {
+    width: 17%;
+    height: 123px;
+    float: left;
+    background-color:gray;
+}
+
+.menu {
+    width: 83%;
+    height: 93px;
+    float: right;
+    padding-top: 30px;
+    background-color: gray;
+}
+
+
+.logo img {
+    width: 120px;
+    height: 120px;
+}
+
+.orta {
+    width: 83%;
+    height: 500px;
+    margin-top: 10px;
+    background: url("image/ruby-anasayfaa.png");
+    background-size: 850px 400px;
+    float: right;
+    background-repeat: no-repeat;
+}
+
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu ul li {
+    float: left;
+    margin-top: 8px;
+}
+
+.menu ul li a {
+    display: block;
+    width: 145px;
+    height: 32px;
+    text-decoration: none;
+    text-align: center;
+    font: 15px;
+    color: black;
+    padding-top: 8px;
+}
+
+.menu ul li a:hover {
+    text-decoration: underline;
+}
+
+
+
+.button {
+    width: 500px;
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top:420px;
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+.alt {
+    width: 20%;
+    height: auto;
+   float:left;
+   background-color:gray;
+}
+
+.ders {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    
+}
+
+.button2 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button3 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button4 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button5 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button6 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button7 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button8 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button9 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button10 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button11 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button12 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button13 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button14 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button15 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button16 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button17 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button18 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button19 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.button20 {
+    width: 183px;
+    border: none;
+    color: white;
+    margin-left: 4px;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
